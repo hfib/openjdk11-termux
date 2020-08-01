@@ -8,6 +8,7 @@
 
 Для установки необходимо просто ввести в Termux эти команды:
 `curl https://github.com/Hf1b/openjdk11-termux/raw/master/installjava.sh -s -L | bash`
+
 Желательно иметь не меньше 180МБ свободной памяти для установки.
 
 Осталось лишь перезапустить Termux, и OpenJDK будет работать.
